@@ -87,7 +87,7 @@ compared to all other models we looked at. <br>
 ### <b> 📈 ROC Curve: 
 
 <p align="center">
-<img src ='Final Roc Curve.png'>
+<img src ='./Graph/Final Roc Curve.png'>
 
 ### <b> 📐 Confusion Matrix of our model :
 <p align = 'center'>

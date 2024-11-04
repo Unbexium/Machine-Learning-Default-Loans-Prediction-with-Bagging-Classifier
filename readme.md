@@ -19,7 +19,7 @@
     </a>
     <br>
     <strong>Mael Thuillier 79372</strong>
-  
+  </div>
   <div style="text-align: center;">
     <a href="https://www.linkedin.com/in/grigory-sheleg/">
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">

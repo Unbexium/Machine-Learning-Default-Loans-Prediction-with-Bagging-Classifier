@@ -6,39 +6,44 @@
 <h1 align="center">Machine Learning Project : <p style=" font-size: 22px" > Loans Default Prediction with Bagging Classifier  </h1>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/solal-fuster/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <br>
-    <strong>Solal Fuster 72950</strong>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/mael-thuillier/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <br>
-    <strong>Mael Thuillier 79372</strong>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/grigory-sheleg/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <br>
-    <strong>Grigory Sheleg 80985</strong>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://www.linkedin.com/in/philippe-de-parcevaux/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <br>
-    <strong>Philippe de Parcevaux 80667</strong>
-  </div>
+  <table> 
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/solal-fuster/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+        </a>
+        <br>
+        <strong>Solal Fuster 72950</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/mael-thuillier/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+        </a>
+        <br>
+        <strong>Mael Thuillier 79372</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/grigory-sheleg/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+        </a>
+        <br>
+        <strong>Grigory Sheleg 80985</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/philippe-de-parcevaux/">
+          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+        </a>
+        <br>
+        <strong>Philippe de Parcevaux 80667</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 <br>
 <div align="center">
+  
 
 
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org)  [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) 

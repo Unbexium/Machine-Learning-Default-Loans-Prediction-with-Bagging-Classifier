@@ -87,11 +87,11 @@ compared to all other models we looked at. <br>
 ### <b> 📈 ROC Curve: 
 
 <p align="center">
-<img src ='./Graph/Final Roc Curve.png'>
+<img src ='Graph/Comparaison Model.png'>
 
 ### <b> 📐 Confusion Matrix of our model :
 <p align = 'center'>
-<img src = "Confusion Matrix.png"/>
+<img src = "Graph/Confusion Matrix.png"/>
 
 ### <b> 📊 Classification Report :
 <p align="center">
@@ -133,7 +133,7 @@ Therefore, __class balancing__ will be done.
 * Based on the salary amounts, a large portion of people has salaries ranging from __$45,000__ to __$90,000__. There are also a few people who make more than __$250,000__ but they are outliers in the data, and will be removed.
 * A large number of people have taken a loan ranging from __$1,000__ to __$35,000__. <br><br>
 <p align="center">
-<img width=700px height=450 src ="Distribution.png">
+<img width=700px height=450 src ="Graph/Distribution.png">
 
 ### <b> 4. Feature Selection and Dimensionality Reduction
 
@@ -192,7 +192,7 @@ Each model is evaluated to identify the best-performing approach for our data, l
 #### After running each model on each fold we selected the top 3 models according to ROC-AUC Score :
 
 <p align="center"> 
-<img src = "Comparison Model.png"/>
+<img src = "Graph/Comparison Model.png"/>
 
 
 ## <b>🌟 Top 3 Best-Performing Models

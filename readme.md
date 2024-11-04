@@ -192,7 +192,7 @@ Each model is evaluated to identify the best-performing approach for our data, l
 #### After running each model on each fold we selected the top 3 models according to ROC-AUC Score :
 
 <p align="center"> 
-<img src = "Graph/Comparison Model.png"/>
+<img src = "Graph/Comparaison Model.png"/>
 
 
 ## <b>🌟 Top 3 Best-Performing Models
